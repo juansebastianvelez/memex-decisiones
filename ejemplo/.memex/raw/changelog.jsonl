@@ -1,0 +1,3 @@
+{"ts": "2026-01-12T09:14:00-05:00", "event": "PostToolUse", "tool": "Write", "summary": "Write pedidos/reservas.py: reserva de inventario con clave de idempotencia"}
+{"ts": "2026-01-14T16:40:00-05:00", "event": "PostToolUse", "tool": "Bash", "summary": "pytest falló: dos pedidos iguales reservaron la misma bicicleta"}
+{"ts": "2026-01-15T11:02:00-05:00", "event": "PostToolUse", "tool": "Edit", "summary": "Edit pedidos/reservas.py: la clave de idempotencia se valida antes de descontar inventario"}
